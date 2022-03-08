@@ -1,0 +1,2 @@
+# pymysql
+本案例使用Python连接MySQL进行查询示例，使用到的数据库为MySQL官方提供的sakila数据集，对country字段进行了查询。
